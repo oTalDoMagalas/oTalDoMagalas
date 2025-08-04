@@ -70,7 +70,7 @@
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-aqui)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-magalas-generoso-3947b1377/)  
 📧 E-mail: gustavomagalas.senai@gmail.com
 
 ---
