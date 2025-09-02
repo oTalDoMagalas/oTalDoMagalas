@@ -50,9 +50,7 @@
 
 <!-- Substitua o nome de usuário com o seu no GitHub -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oTalDoMagalas&show_icons=true&theme=dark&border_radius=10)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oTalDoMagalas&layout=compact&theme=dark&border_radius=10)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=oTalDoMagalas&label=Visualiza%C3%A7%C3%B5es%20de%20Perfil&color=0e75b6&style=flat)
 
 ---
